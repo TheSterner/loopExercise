@@ -1,0 +1,7 @@
+C:\Users\Blake\source\repos\loopExercise\loopExercise\bin\Debug\loopExercise.exe.config
+C:\Users\Blake\source\repos\loopExercise\loopExercise\bin\Debug\loopExercise.exe
+C:\Users\Blake\source\repos\loopExercise\loopExercise\bin\Debug\loopExercise.pdb
+C:\Users\Blake\source\repos\loopExercise\loopExercise\obj\Debug\loopExercise.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\loopExercise\loopExercise\obj\Debug\loopExercise.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\loopExercise\loopExercise\obj\Debug\loopExercise.exe
+C:\Users\Blake\source\repos\loopExercise\loopExercise\obj\Debug\loopExercise.pdb
